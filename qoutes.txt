@@ -1,0 +1,94 @@
+"It's not a bug, it's a feature." - Unknown
+"First, solve the problem. Then, write the code." - John Johnson
+"Programs must be written for people to read, and only incidentally for machines to execute." - Harold Abelson
+"Coding is like love; everyone has their own style." - Unknown
+"Talk is cheap. Show me the code." - Linus Torvalds
+"Perfection is achieved not when there is nothing more to add, but when there is nothing left to take away." - Antoine de Saint-Exupéry
+"Programming isn't about what you know; it's about what you can figure out." - Chris Pine
+"Code is like humor. When you have to explain it, it’s bad." - Cory House
+"The best error message is the one that never shows up." - Thomas Fuchs
+"Programming is the art of telling another human being what one wants the computer to do." - Donald Knuth
+"It’s not at all important to get it right the first time. It’s vitally important to get it right the last time." - Andrew Hunt and David Thomas
+"Any fool can write code that a computer can understand. Good programmers write code that humans can understand." - Martin Fowler
+"The only way to learn a new programming language is by writing programs in it." - Dennis Ritchie
+"Simplicity is the soul of efficiency." - Austin Freeman
+"There are two ways to write error-free programs; only the third one works." - Alan J. Perlis
+"Programming is thinking, not typing." - Casey Patton
+"If debugging is the process of removing software bugs, then programming must be the process of putting them in." - Edsger Dijkstra
+"It's hard enough to find an error in your code when you're looking for it; it's even harder when you've assumed your code is error-free." - Steve McConnell
+"Code is read much more often than it is written." - Guido van Rossum
+"Programming is similar to a game of golf. The point is not getting the ball in the hole but how many strokes it takes." - Harlan Mills
+"Perseverance is not a long race; it is many short races one after the other." - Walter Elliot
+"You might not think that programmers are artists, but programming is an extremely creative profession." - John Romero
+"The most important property of a program is whether it accomplishes the intention of its user." - C.A.R. Hoare
+"Don’t worry if it doesn’t work right. If everything did, you’d be out of a job." - Mosher's Law of Software Engineering
+"The best programs are written so that computing machines can perform them quickly and so that human beings can understand them clearly." - Donald Knuth
+"The computer was born to solve problems that did not exist before." - Bill Gates
+"Programming is not about typing; it's about thinking." - Rich Hickey
+"Coding is not just code, but it's how you think." - Chris Bosh
+"The sooner you start to code, the longer the program will take." - Roy Carlson
+"Nine people can't make a baby in a month." - Fred Brooks
+"I'm not a great programmer; I'm just a good programmer with great habits." - Kent Beck
+"The three great virtues of a programmer are: laziness, impatience, and hubris." - Larry Wall
+"Every great developer you know got there by solving problems they were unqualified to solve until they actually did it." - Patrick McKenzie
+"Programming can be fun, and so can cryptography; however, they should not be combined." - Kreitzberg and Shneiderman
+"If you don't fail at least 90 percent of the time, you're not aiming high enough." - Alan Kay
+"Software is a gas; it expands to fill its container." - Nathan Myhrvold
+"Copy and paste is a design error." - David Parnas
+"Good code is its own best documentation." - Steve McConnell
+"Software is like sex: it's better when it's free." - Linus Torvalds
+"The art of programming is the art of organizing complexity, of mastering multitude and avoiding its bastard chaos as effectively as possible." - Edsger Dijkstra
+"Without requirements or design, programming is the art of adding bugs to an empty text file." - Louis Srygley
+"Programs must be written for people to read, and only incidentally for machines to execute." - Harold Abelson
+"I'm not a great programmer; I'm a great programmer's tool." - Unknown
+"In order to understand recursion, one must first understand recursion." - Unknown
+"It's not a bug - it's an undocumented feature." - Unknown
+"A SQL query walks into a bar, walks up to two tables and asks... 'Can I join you?'" - Unknown
+"If at first, you don’t succeed; call it version 1.0." - Unknown
+"Why do programmers always mix up Christmas and Halloween? Because Oct 31 == Dec 25!" - Unknown
+"There are 10 types of people in the world: those who understand binary, and those who don’t." - Unknown
+"It works on my machine." - Unknown
+"Software developers like to solve problems. If there are no problems available, they will create their own problems." - Scott Adams
+"I'm not anti-social; I'm just not user-friendly." - Unknown
+"Real programmers don’t comment their code. It was hard to write, it should be hard to understand." - Unknown
+"If you think math is hard, try web design." - Trish Parr
+"It's not that I'm so smart, it's just that I stay with problems longer." - Albert Einstein
+"You can’t have great software without a great team, and most software teams behave like dysfunctional families." - Jim McCarthy
+"No one in the brief history of computing has ever written a piece of perfect software. It's unlikely that you'll be the first." - Andy Hunt
+"Don't comment bad code—rewrite it." - Brian Kernighan
+"There is no programming language–no matter how structured–that will prevent programmers from making bad programs." - Larry Flon
+"Good software, like good wine, takes time." - Joel Spolsky
+"If you automate a mess, you get an automated mess." - Rod Michael
+"Code never lies; comments sometimes do." - Ron Jeffries
+"The only way to do great work is to love what you do." - Steve Jobs
+"The greatest performance improvement of all is when a system goes from not-working to working." - John Ousterhout
+"Don’t write better error messages; write code that doesn’t need them." - Jason C. McDonald
+"When debugging, novices insert corrective code; experts remove defective code." - Richard Pattis
+"Weeks of coding can save you hours of planning." - Unknown
+"Java is to JavaScript what car is to Carpet." - Chris Heilmann
+"Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program." - Linus Torvalds
+"Learning to program has no more to do with designing interactive software than learning to touch type has to do with writing poetry." - Ted Nelson
+"It is not the language that makes programs appear simple. It is the programmer that make the language appear simple!" - Uncle Bob
+"The computer is incredibly fast, accurate, and stupid. Man is incredibly slow, inaccurate, and brilliant. The marriage of the two is a force beyond calculation." - Leo Cherne
+"Your most unhappy customers are your greatest source of learning." - Bill Gates
+"Code tells you how; Comments tell you why." - Jeff Atwood
+"One of my most productive days was throwing away 1000 lines of code." - Ken Thompson
+"The more you know, the more you realize you know nothing." - Socrates
+"It's not about ideas. It's about making ideas happen." - Scott Belsky
+"Programming is not just code and syntax. It’s solving problems." - Kushan Joshi
+"Programs must be written for people to read, and only incidentally for machines to execute." - Harold Abelson
+"Walking on water and developing software from a specification are easy if both are frozen." - Edward V Berard
+"If you don't fail at least 90 percent of the time, you're not aiming high enough." - Alan Kay
+"Any fool can write code that a computer can understand. Good programmers write code that humans can understand." - Martin Fowler
+"It's all talk until the code runs." - Ward Cunningham
+"I'm not a great programmer; I'm a great programmer's tool." - Unknown
+"Programming is like playing the piano. If you never practice, you'll never become a master." - Unknown
+"The biggest room in the world is the room for improvement." - Unknown
+"If you're good at something, never do it for free." - The Joker (The Dark Knight)
+"A computer program does what you tell it to do, not what you want it to do." - Unknown
+"It's not the language that makes programs appear simple. It is the programmer that makes the language appear simple." - Uncle Bob
+"If you can't explain it simply, you don't understand it well enough." - Albert Einstein
+"The sooner you start to code, the longer the program will take." - Roy Carlson
+"The best time to plant a tree was 20 years ago. The second best time is now." - Chinese Proverb
+"Programming is the art of telling another human what one wants the computer to do." - Donald Knuth
+"Programming today is a race between software engineers striving to build bigger and better idiot-proof programs, and the universe trying to produce bigger and better idiots. So far, the universe is winning." - Rick Cook
